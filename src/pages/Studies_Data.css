@@ -1,0 +1,31 @@
+.studies_data-content {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  max-width:  1000px;
+  padding: 2rem;
+  margin: 0 auto; /* centers the block horizontally */
+  box-sizing: border-box;
+  line-height: 1.6;
+}
+
+.studies_data-content p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.studies_data-content li {
+  font-size: 1.1rem;
+}
+
+.studies_data-content a {
+  color: black;
+}
+
+/* smaller sreen sizes */
+@media (max-width: 900px) {
+  .studies_data-content {
+    max-width: 90%;
+    padding: 1.5rem;
+    }
+}
