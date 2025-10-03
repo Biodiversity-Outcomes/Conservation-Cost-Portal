@@ -1,0 +1,32 @@
+.about-content {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  max-width: 800px;
+  padding: 2rem;
+  margin: 0 auto; /* centers the block horizontally */
+  box-sizing: border-box;
+  line-height: 1.6;
+}
+
+.about-content h1 {
+  margin-bottom: 1rem;
+}
+
+.about-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-content p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+/* smaller sreen sizes */
+@media (max-width: 900px) {
+  .about-content {
+    max-width: 90%;
+    padding: 1.5rem;
+  }
+}

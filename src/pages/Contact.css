@@ -1,0 +1,11 @@
+.contact-content {
+    position: relative;
+    justify-items: center;
+    width: 100%;
+    min-height: 100vh;
+    max-width: 800px;
+    padding: 2rem;
+    margin: 0 auto; /* centers the block horizontally */
+    box-sizing: border-box;
+    line-height: 1.6;
+}
