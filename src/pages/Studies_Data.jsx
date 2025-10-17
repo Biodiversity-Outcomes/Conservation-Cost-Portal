@@ -31,9 +31,7 @@ function Studies_Data(){
                         google form
                     </a>
                     {" "} or email {" "}
-                    <a href="Gwen.Iacona@asu.edu"
-                        target="_blank"
-                        rel="noopener noreferrer">
+                    <a href="mailto:Gwen.Iacona@asu.edu">
                         Dr. Gwen Iacona
                     </a>
                     {" "} with copies of papers or reports that would be useful to the community.
