@@ -49,7 +49,7 @@ function Studies_Data(){
                             Army Corps of Engineering
                         </a>
                         {" "} has been tracking expenditures on {" "}
-                        <a href="https://tescost.el.erdc.dren.mil/Default.aspx"
+                        <a href="https://link.springer.com/article/10.1007/s00267-005-0298-8"
                             target="_blank"
                             rel="noopener noreferrer">
                             ESA listed species
@@ -57,7 +57,7 @@ function Studies_Data(){
                         {" "} compliance and recovery actions.
                     </li>
                     <li>
-                        <a href="https://tescost.el.erdc.dren.mil/Default.aspx"
+                        <a href="https://invacost.fr/en/accueil/"
                             target="_blank"
                             rel="noopener noreferrer">
                             Frank Courchamp and team
