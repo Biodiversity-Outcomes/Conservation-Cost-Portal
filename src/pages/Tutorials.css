@@ -1,5 +1,5 @@
 .tutorials-content {
-    max-width:  1200px;
+    max-width:  1300px;
     margin: 0 auto;
 }
 
@@ -25,6 +25,7 @@
     gap: 20px;
     padding: 20px;
     justify-items: center;
+    margin-bottom: 40px;
 }
 
 .video-item {
@@ -32,6 +33,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 300px;
 }
 
 .video-container {
@@ -39,7 +41,7 @@
     aspect-ratio: 16 / 9;
     border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
 .video-container iframe {
