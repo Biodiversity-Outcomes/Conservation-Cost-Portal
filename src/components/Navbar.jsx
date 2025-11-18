@@ -12,6 +12,12 @@ function Navbar(){
                 <li><Link to="/tutorials">Tutorials</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
             </ul>
+
+            <div id="logo">
+                <a href="https://globalfutures.asu.edu/center-for-biodiversity-outcomes/" target="_blank">
+                    <img src="/assets/icons/CBO_Social_Media_Logo.svg" alt="CBO Logo" />
+                </a>
+            </div>
         </nav>
     );
 }

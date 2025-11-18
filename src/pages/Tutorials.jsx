@@ -14,9 +14,10 @@ function Tutorials(){
                 <div className="video-gallery">
 
                         <div className="video-item">
+                            {/* NOTE: when adding or updating video links, make sure to insert embed/ after .com/ */}
                             <div className="video-container">
                                 <iframe
-                                src="https://www.youtube.com/embed/4raaF9xVf8A?si=v7-2ed39HhdG9Hik"
+                                src="https://www.youtube.com/embed/VyEeKUFhLKk?si=hxsop_mt4IGVO8t0"
                                 title="Module 1: Why Collect Cost Data and What Constitutes Good Cost Data?"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -49,13 +50,11 @@ function Tutorials(){
                                 allowFullScreen
                                 ></iframe>
                             </div>
-                            <p className="video-title">Module 1: Why Collect Cost Data and What Constitutes Good Cost Data?</p>
+                            <p className="video-title">Module 3: How to Collect Good Cost Data</p>
                         </div>
                     </div>
                 
                 <h2>Costing Worksheet</h2>
-                <h3 className="header-subtitle">Designing a data management system for cost data</h3>
-                {/* NOTE: when adding or updating video links, make sure to insert embed/ after .com/ */}
                     <h3>English:</h3>
 
                     <div className="video-gallery">
