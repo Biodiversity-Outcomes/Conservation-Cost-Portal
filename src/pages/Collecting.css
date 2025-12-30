@@ -18,8 +18,8 @@
   font-size: 1.1rem;
 }
 
-.collecting-content a {
-  color: black;
+.indented-content {
+  padding-left: 60px;
 }
 
 /* smaller sreen sizes */

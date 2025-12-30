@@ -6,6 +6,7 @@ function HeroSection({ title, image }) {
             <div className="hero-overlay">
                 <h1 className="hero-title">{title}</h1>
             </div>
+            <p>Photo by Jared Clements</p>
         </section>
     );
 }

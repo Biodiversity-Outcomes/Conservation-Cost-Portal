@@ -23,6 +23,20 @@
   font-size: 1.1rem;
 }
 
+#cbo-logo-horizontal {
+  margin-top: 85px;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#cbo-logo-horizontal img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* smaller sreen sizes */
 @media (max-width: 900px) {
   .about-content {

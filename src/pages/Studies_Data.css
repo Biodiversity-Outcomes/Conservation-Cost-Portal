@@ -18,10 +18,6 @@
   font-size: 1.1rem;
 }
 
-.studies_data-content a {
-  color: black;
-}
-
 /* smaller sreen sizes */
 @media (max-width: 900px) {
   .studies_data-content {
