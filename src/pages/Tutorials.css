@@ -52,3 +52,15 @@
   height: 100%;
   border: none;
 }
+
+@media (max-width: 480px) {
+  .video-gallery {
+    grid-template-columns: 1fr;
+    padding: 10px;
+  }
+
+  .video-container {
+    min-width: 280px;
+    min-height: 158px;
+  }
+}
