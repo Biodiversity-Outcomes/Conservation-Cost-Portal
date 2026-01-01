@@ -15,8 +15,10 @@ nav {
 
 #navbar {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    overflow-x: auto;
+    flex-wrap: nowrap;
 }
 
 #navbar li {
@@ -47,4 +49,13 @@ nav {
     margin-bottom: 9px;
     width: 75px;
     height: 65px;
+}
+
+@media (max-width: 770px) {
+    #navbar li a {
+        font-size: 0.8rem;
+    }
+    #logo {
+        display: none;
+    }
 }
