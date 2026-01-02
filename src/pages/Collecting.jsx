@@ -21,8 +21,9 @@ function Collecting(){
                             <a href="https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.70007"
                                 target="_blank"
                                 rel="noopener noreferrer">
-                                Gurrero-Pineda et al., 2025 provides and Excel based worksheet to support such a system.
+                                Gurrero-Pineda et al., 2025 
                             </a>
+                            {" "} provides an Excel based worksheet to support such a system.
                         </p>
                         <p> 
                             Miradi (and {" "}
