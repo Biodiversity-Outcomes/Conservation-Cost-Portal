@@ -141,7 +141,7 @@ function Collecting(){
                             </li>
                             <li>
                                 The Nature Conservancy's Conservation Gateway site offers a {" "}
-                                <a href="Long-Term Stewardship Calculator and Accompanying Handbook"
+                                <a href="https://www.researchgate.net/publication/317958556_Long-Term_Stewardship_Calculator_Accompanying_Handbook"
                                     target="_blank"
                                     rel="noopener noreferrer">
                                         Long-Term Stewardship Calculator and Accompanying Handbook
